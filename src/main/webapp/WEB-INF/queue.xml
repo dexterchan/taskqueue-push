@@ -9,7 +9,7 @@
   
   <queue>
     <name>midtestqueue</name>
-    <rate>50/s</rate>
+    <rate>500/s</rate>
     <bucket-size>500</bucket-size>
     <max-concurrent-requests>50</max-concurrent-requests>
   </queue>
