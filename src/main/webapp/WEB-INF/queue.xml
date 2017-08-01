@@ -11,7 +11,7 @@
     <name>midtestqueue</name>
     <rate>500/s</rate>
     <bucket-size>500</bucket-size>
-    <max-concurrent-requests>50</max-concurrent-requests>
+    <max-concurrent-requests>100</max-concurrent-requests>
   </queue>
   <queue>
     <name>smalltestqueue</name>
